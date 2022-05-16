@@ -22,7 +22,7 @@
               <w:pStyle w:val="Maryam1"/>
             </w:pPr>
             <w:r>
-              <w:t>I am Mohammed Yousuf Irfan....</w:t>
+              <w:t>I am Mohammed Yousuf Irfan1....</w:t>
             </w:r>
           </w:p>
         </w:body>
@@ -34,8 +34,8 @@
       <w:styles xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" >
         <w:style w:type="paragraph" w:styleId="Maryam1">
           <w:name w:val="maryam 1"/>
-          <w:basedOn w:val="Normal"/>
-          <w:next w:val="Normal"/>
+          <w:basedOn w:val="Bold"/>
+          <w:next w:val="Bold"/>
           <w:link w:val="Maryam1Char"/>
           <w:uiPriority w:val="60"/>
           <w:qFormat/>
