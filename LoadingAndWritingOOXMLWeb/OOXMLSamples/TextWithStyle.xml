@@ -37,7 +37,7 @@
           <w:basedOn w:val="Normal"/>
           <w:next w:val="Normal"/>
           <w:link w:val="Maryam1Char"/>
-          <w:uiPriority w:val="30"/>
+          <w:uiPriority w:val="60"/>
           <w:qFormat/>
           <w:pPr>
             <w:keepNext/>
@@ -48,8 +48,8 @@
           <w:rPr>
             <w:rFonts w:asciiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:hAnsiTheme="majorHAnsi" w:cstheme="majorBidi"/>
             <w:color w:val="2E74B5" w:themeColor="accent1" w:themeShade="BF"/>
-            <w:sz w:val="32"/>
-            <w:szCs w:val="32"/>
+            <w:sz w:val="50"/>
+            <w:szCs w:val="50"/>
           </w:rPr>
         </w:style>
       </w:styles>
