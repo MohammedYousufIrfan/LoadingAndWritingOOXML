@@ -17,15 +17,15 @@
               <w:rPr>
                 <w:color w:val="70AD47" w:themeColor="accent6"/>
                 <!--Font sizes in Word markup are expressed as double their actual value (so the font size is 14 point). Most wordML numeric values, however (such as the paragraph spacing shown above, are expressed in twips, 1/20th of a point.-->
-                <w:sz w:val="28"/>
+                <w:sz w:val="100"/>
               </w:rPr>
             </w:pPr>
             <w:r>
               <w:rPr>
                 <w:color w:val="70AD47" w:themeColor="accent6"/>
-                <w:sz w:val="28"/>
+                <w:sz w:val="100"/>
               </w:rPr>
-              <w:t>This text has formatting directly applied to achieve its font size, color, line spacing, and paragraph spacing.</w:t>
+              <w:t>This text has formatting directly applied to achieve its font size, color, line spacing, and paragraph spacing 100.</w:t>
             </w:r>
           </w:p>
           <!--Note that the sectPr tag (section properties) has been removed from all markup examples in this code sample. That tag controls page layout settings, such as margins and paper size. It is ignored by default but best to remove when you are inserting an object and not looking to alter the user's page layout.-->
