@@ -19,10 +19,10 @@
         <w:body>
           <w:p>
             <w:pPr>
-              <w:pStyle w:val="Heading1"/>
+              <w:pStyle w:val="Maryam1"/>
             </w:pPr>
             <w:r>
-              <w:t>This text is formatted using the Heading 1 paragraph style.</w:t>
+              <w:t>I am Mohammed Yousuf Irfan....</w:t>
             </w:r>
           </w:p>
         </w:body>
@@ -32,12 +32,12 @@
   <pkg:part pkg:name="/word/styles.xml" pkg:contentType="application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml">
     <pkg:xmlData>
       <w:styles xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" >
-        <w:style w:type="paragraph" w:styleId="Heading1">
-          <w:name w:val="heading 1"/>
+        <w:style w:type="paragraph" w:styleId="Maryam1">
+          <w:name w:val="maryam 1"/>
           <w:basedOn w:val="Normal"/>
           <w:next w:val="Normal"/>
-          <w:link w:val="Heading1Char"/>
-          <w:uiPriority w:val="9"/>
+          <w:link w:val="Maryam1Char"/>
+          <w:uiPriority w:val="30"/>
           <w:qFormat/>
           <w:pPr>
             <w:keepNext/>
