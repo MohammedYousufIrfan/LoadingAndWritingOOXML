@@ -19,10 +19,10 @@
         <w:body>
           <w:p>
             <w:pPr>
-              <w:pStyle w:val="Maryam1"/>
+              <w:pStyle w:val="Irfan1"/>
             </w:pPr>
             <w:r>
-              <w:t>I am Mohammed Yousuf Irfan2....</w:t>
+              <w:t>I am Mohammed Yousuf Irfan100....</w:t>
             </w:r>
           </w:p>
         </w:body>
@@ -33,12 +33,12 @@
     <pkg:xmlData>
 	
       <w:styles xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main" >
-        <w:style w:type="paragraph" w:customStyle="1"  w:styleId="Maryam1">
-          <w:name w:val="maryam 1"/>
+        <w:style w:type="paragraph" w:customStyle="1"  w:styleId="Irfan1">
+          <w:name w:val="irfan 1"/>
           <w:basedOn w:val="Bold"/>
           <w:next w:val="Bold"/>
-          <w:link w:val="Maryam1Char"/>
-          <w:uiPriority w:val="60"/>
+          <w:link w:val="Irfan1Char"/>
+          <w:uiPriority w:val="100"/>
           <w:qFormat/>
           <w:pPr>
             <w:keepNext/>
@@ -49,8 +49,8 @@
           <w:rPr>
             <w:rFonts w:asciiTheme="majorHAnsi" w:eastAsiaTheme="majorEastAsia" w:hAnsiTheme="majorHAnsi" w:cstheme="majorBidi"/>
             <w:color w:val="2E74B5" w:themeColor="accent1" w:themeShade="BF"/>
-            <w:sz w:val="50"/>
-            <w:szCs w:val="50"/>
+            <w:sz w:val="100"/>
+            <w:szCs w:val="100"/>
           </w:rPr>
         </w:style>
       </w:styles>
